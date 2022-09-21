@@ -1,0 +1,16 @@
+Estas son las extensiones que uso en VSCode
+
+*HTML Boilerplate
+*HTML Preview
+*Markdown All in One
+*Remote-Containers
+
+*Live Share
+*Docker
+
+Browser 
+CORS Unblock
+Lighthouse
+
+GitHub
+GitHubPages
